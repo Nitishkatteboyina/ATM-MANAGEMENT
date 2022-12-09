@@ -1,5 +1,8 @@
 # ATM-MANAGEMENT
 Management of ATM
+#### Team Members :-
+1.Nitish (Roll no:- 211115)            
+2.Pradeep (Roll no:- 211136)                  
 #### How to run the program :- 
 1.Enter the account number and correct pin for that.      
 2.Then the following methods will display.   
